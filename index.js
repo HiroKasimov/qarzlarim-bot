@@ -1,3 +1,4 @@
+const fetch = require('node-fetch');
 const TelegramBot = require('node-telegram-bot-api');
 const express = require('express');
 
